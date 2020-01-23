@@ -1,3 +1,4 @@
+#demo of slicer effect with a chord
 use_bpm 120
 live_loop :slicey do
   use_synth :tb303
