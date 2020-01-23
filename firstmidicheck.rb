@@ -1,4 +1,4 @@
-
+#experiment to get my midi controller working with Sonic Pi
 live_loop :midicheck do
   #use_real_time
   use_sched_ahead_time 0.0001
