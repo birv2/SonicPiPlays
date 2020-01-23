@@ -1,4 +1,6 @@
- 
+ #definitely not an original work
+#an example of how to make some  dub techno
+
 use_debug false
 use_bpm 130
 
