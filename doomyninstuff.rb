@@ -1,4 +1,6 @@
 #Doomy NIN stuff
+#I think it's original, but apologies if not!
+#going for a Nine Inch Nails vibe
 
 use_bpm 50
 
