@@ -1,3 +1,4 @@
+#snippet for experimenting with cutoffs
 use_synth :tb303
 #with_fx :reverb, room: 1 do
 
