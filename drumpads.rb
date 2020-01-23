@@ -1,3 +1,5 @@
+#experiment with making pads with a beat
+
 use_bpm 100
 
 live_loop :drums do
