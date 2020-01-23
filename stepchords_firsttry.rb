@@ -1,3 +1,5 @@
+#another try at stepped chords
+#stops are for starting and stopping loops
 live_loop :stepchords do
   #stop
   use_synth :prophet
