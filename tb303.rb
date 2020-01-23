@@ -1,3 +1,5 @@
+
+#snippet to play with tb303 synth and get an acid sound
 use_synth :tb303
 live_loop :squelch do
   n = (ring :e1, :f2, :g3).tick
