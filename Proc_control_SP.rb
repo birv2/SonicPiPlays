@@ -1,3 +1,5 @@
+#first attempts in controlling Processing visuals with output from Sonic Pi
+
 use_synth :tb303
 live_loop :os do
   nv=sync "/osc/notesend" #for Sonic PI 3 and later
