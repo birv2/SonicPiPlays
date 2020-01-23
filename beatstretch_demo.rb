@@ -1,3 +1,6 @@
+#playing with beat stretching
+#note differences when sleep and beat stretches are different values
+
 use_bpm 60
 live_loop :break do
   sample :loop_breakbeat, beat_stretch: 2
