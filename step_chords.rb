@@ -1,3 +1,4 @@
+#first in a series of attempts to make step triggered chords a la deadmau5
 use_bpm 110
 
 live_loop  :chords do
