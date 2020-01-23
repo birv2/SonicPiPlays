@@ -1,3 +1,5 @@
+#playing with syncing melody and drums
+
 live_loop :drums, sync: :melody do
   sample :bd_haus
   sample :drum_cymbal_closed
