@@ -1,3 +1,6 @@
+#original work
+#stops are for bringing loops in and out during live coding
+
 live_loop :chords do
   #stop
   use_synth :fm
