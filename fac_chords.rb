@@ -1,3 +1,5 @@
+#original piece experimenting with making chords and live coding
+#stops are for bringing live loops in and out
 live_loop :chords do
   stop
   use_synth :fm
