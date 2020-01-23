@@ -1,3 +1,4 @@
+#downtempo melody, trying to sync all loops to :chords
 use_bpm 90
 
 live_loop  :chords do
