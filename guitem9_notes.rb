@@ -1,3 +1,4 @@
+#interspersed guitar sample and notes
 
 sample :guit_em9
 sleep 1
