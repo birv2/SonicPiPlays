@@ -1,3 +1,4 @@
+#another attempt at stepped chords
 use_bpm 64
 
 live_loop :stepchords do
