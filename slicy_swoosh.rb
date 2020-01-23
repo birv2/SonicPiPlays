@@ -1,3 +1,4 @@
+#demo of some beats while slicing the ambi_lunar_land sample
 use_bpm 110
 
 live_loop :beats do
